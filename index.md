@@ -1,4 +1,4 @@
-## Welcome to my page
+_Welcome to my page_
 
 You can use the [editor on GitHub](https://github.com/sjlevesque/sjlevesque.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,26 +11,22 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# About me
+ **About me**
 My name is Shaleigh and I am a student at UMass Amherst. I am majoring animal science, in hopes of becoming a veterinarian in the future. 
-## My interests
+ **My interests**
 All my life I have played many sports, such as 
--soccer
+'-soccer
 -basketball
 -figure skating
 -competitve dance
 -softball
 -cheerleading
--track an field  
+-track an field' 
 The ones I showed the most interest in and stuck with up until this year are soccer, basketball, track and field, and figure skating.  
-### What I am most excited for in college
+**What I am most excited for in college**
 I am very excited to meet new people in college! I can't wait to be able to live on campus and have the full college experience.  
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
