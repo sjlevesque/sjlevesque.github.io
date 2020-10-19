@@ -1,8 +1,6 @@
 _Welcome to my page_
 
-! [images of me]
-(https://octodex.github.com/images/www.google.com/search?q=shaleigh+Levesque&rlz=1C5CHFA_enUS898US898&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiY3ayOyr_sAhXQXc0KHcYfAC0Q_AUoAXoECAsQAw&biw=1440&bih=821#imgrc=Yp0HbMN1MnCV9M)
-
+(https://octodex.github.com/images/original.png)
 
  # **About me**
 My name is Shaleigh and I am a student at UMass Amherst. I am majoring animal science, in hopes of becoming a veterinarian in the future. 
