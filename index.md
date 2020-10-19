@@ -3,7 +3,7 @@ _Welcome to my page_
 
  # **About me**
 My name is Shaleigh and I am a student at UMass Amherst. I am majoring animal science, in hopes of becoming a veterinarian in the future.
-https://www.vasci.umass.edu/undergraduate/animal-science-major -(https://www.vasci.umass.edu/undergraduate/animal-science-major)
+https://www.vasci.umass.edu/undergraduate/animal-science-major 
 
  ## **My interests**
 All my life I have played many sports, such as 
@@ -22,7 +22,7 @@ I am very excited to meet new people in college! I can't wait to be able to live
 
 
 
-Format: ![Alt Text](https://www.google.com/search?q=shaleigh+Levesque&rlz=1C5CHFA_enUS898US898&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiY3ayOyr_sAhXQXc0KHcYfAC0Q_AUoAXoECAsQAw&biw=1440&bih=821#imgrc=Yp0HbMN1MnCV9M)
+https://www.google.com/search?q=shaleigh+Levesque&rlz=1C5CHFA_enUS898US898&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiY3ayOyr_sAhXQXc0KHcYfAC0Q_AUoAXoECAsQAw&biw=1440&bih=821#imgrc=Yp0HbMN1MnCV9M
 
 
 
