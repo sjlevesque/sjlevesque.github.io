@@ -11,13 +11,13 @@ Link to the animal science/ pre veterinarian UMass site.
 
  ## **My interests**
 All my life I have played many sports, such as 
-  *soccer
-  *basketball
-  *figure skating
-  *competitve dance
-  *softball
-  *cheerleading
-  *track an field
+  * soccer
+  * basketball
+  * figure skating
+  * competitve dance
+  * softball
+  * cheerleading
+  * track an field
 
 The ones I showed the most interest in and stuck with up until this year are soccer, basketball, track and field, and figure skating.  
 ## **What I am most excited for in college**
