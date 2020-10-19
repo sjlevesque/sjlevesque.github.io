@@ -1,10 +1,10 @@
 _Welcome to my page_
 
-![image of Welcome Cat] (https://octodex.github.com/images/welcometocat.png)
+![image of Welcome Cat](https://octodex.github.com/images/welcometocat.png)
 
  # **About me**
 My name is Shaleigh and I am a student at UMass Amherst. I am majoring animal science, in hopes of becoming a veterinarian in the future. 
-Link to the animal science/ pre veterinarian UMass site.
+[Link to the animal science/ pre veterinarian UMass site.]
 (https://www.vasci.umass.edu/undergraduate/animal-science-major)  
 
  ## **My interests**
