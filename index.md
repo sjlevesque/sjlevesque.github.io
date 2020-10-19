@@ -28,10 +28,11 @@ I am very excited to meet new people in college! I can't wait to be able to live
 
 
 
-**Bold** and _Italic_ and `Code` text
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://www.google.com/search?q=shaleigh+Levesque&rlz=1C5CHFA_enUS898US898&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiY3ayOyr_sAhXQXc0KHcYfAC0Q_AUoAXoECAsQAw&biw=1440&bih=821#imgrc=Yp0HbMN1MnCV9M)
 
-[Link](url) and ![Image](src)
-```
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
