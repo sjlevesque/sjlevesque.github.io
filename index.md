@@ -1,6 +1,6 @@
 _Welcome to my page_
 
-(https://octodex.github.com/images/welcometocat.png)
+![Welcome Cat] (https://octodex.github.com/images/welcometocat.png)
 
  # **About me**
 My name is Shaleigh and I am a student at UMass Amherst. I am majoring animal science, in hopes of becoming a veterinarian in the future. 
