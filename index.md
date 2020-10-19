@@ -7,7 +7,7 @@ _Welcome to my page_
  # **About me**
 My name is Shaleigh and I am a student at UMass Amherst. I am majoring animal science, in hopes of becoming a veterinarian in the future. 
 Link to the animal science/ pre veterinarian UMass site.
-(https://www.vasci.umass.edu/undergraduate/animal-science-major.com)  
+(https://www.vasci.umass.edu/undergraduate/animal-science-major)  
 
  ## **My interests**
 All my life I have played many sports, such as 
