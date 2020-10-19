@@ -12,7 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
  **About me**
-My name is Shaleigh and I am a student at UMass Amherst. I am majoring animal science, in hopes of becoming a veterinarian in the future. 
+My name is Shaleigh and I am a student at UMass Amherst. I am majoring animal science, in hopes of becoming a veterinarian in the future.
+https://www.vasci.umass.edu/undergraduate/animal-science-major - automatic!
+[GitHub](https://www.vasci.umass.edu/undergraduate/animal-science-major)
  **My interests**
 All my life I have played many sports, such as 
 '-soccer
